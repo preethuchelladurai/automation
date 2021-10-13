@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import org.junit.After;
 import org.junit.AfterClass;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -37,8 +38,9 @@ public class Junit extends BaseClass{
 	public void tc1() throws IOException{
 		LoginPojo l = new LoginPojo();
 		fill(l.getTxtUser(),getData(3,0));
-		fill(l.getTxtUser(),getData(5,1));
 	
+	    Assert.assertTrue(false);
+		fill(l.getTxtUser(),getData(5,1));
 	}
 	
 }
