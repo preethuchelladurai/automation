@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="140" started-at="2021-09-14T16:42:32Z" finished-at="2021-09-14T16:42:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="140" started-at="2021-09-14T16:42:32Z" finished-at="2021-09-14T16:42:33Z">
+      <class name="org.testng.ConOfTestNg">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="browserLaunch" is-config="true" duration-ms="31" started-at="2021-09-14T16:42:32Z" finished-at="2021-09-14T16:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="startTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:32Z" finished-at="2021-09-14T16:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="tc1" duration-ms="0" started-at="2021-09-14T16:42:32Z" finished-at="2021-09-14T16:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="startTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="tc3" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="endTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="startTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="tc2" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="endTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="endTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="startTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="tc5" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="endTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="tc4" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="endTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testng.ConOfTestNg@3ffc5af1]" name="startTime" is-config="true" duration-ms="0" started-at="2021-09-14T16:42:33Z" finished-at="2021-09-14T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+      </class> <!-- org.testng.ConOfTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
